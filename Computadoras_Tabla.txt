@@ -1,0 +1,6 @@
+SO:       Modelo de PC:       Procesador:         RAM:  
+Linux     Asus ROG strix      Ryzen 5 3600x       32    
+Mac       MacBook air Pro     Intel core 2 duo    8     
+Ubuntu    Dell g3             i5 8400u            8     
+Windows   HP PAVILLION        i5 9400u            16    
+Windows   Mac                 ryzen               78    
